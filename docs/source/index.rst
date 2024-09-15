@@ -5,4 +5,4 @@
 https://qianessay.readthedocs.io/en/latest/
 
 .. toctree::
-   测试
+   Linux系统安装启动U盘制作方法
